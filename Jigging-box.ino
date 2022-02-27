@@ -1,7 +1,7 @@
 /*
   Jigging box
 
-  This code isnfor building a jigging box. 
+  This code is for building a jigging box. 
   
   This is essentially a state machine that is determined 
   by the status of each of 4 switches.
